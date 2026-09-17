@@ -401,6 +401,7 @@ A growing set of community-developed and maintained servers demonstrates various
 - **[irulescan MCP](https://github.com/simonkowallik/irulescan?tab=readme-ov-file#mcp-server)** - :shield: MCP enabled code security analyzer for F5 iRules
 - **[aymericzip/intlayer](https://github.com/aymericzip/intlayer)** - A MCP Server that enhance your IDE with AI-powered assistance for Intlayer i18n / CMS tool: smart CLI access, versioned docs.
 - **[IDA Pro MCP](https://github.com/mrexodia/ida-pro-mcp)** - MCP Server for automated reverse engineering with IDA Pro.
+- **[ICBOMS](https://github.com/Jack8081/icboms-mcp-server)** 📇 ☁️ 📟 - Electronic component search engine and turnkey BOM procurement MCP server for AI agents to query 5M+ ICs, microcontrollers, and real-time inventory.
 - **[Israel Statistics MCP](https://github.com/reuvenaor/israel-statistics-mcp)** MCP server that provides programmatic access to the Israeli Central Bureau of Statistics (CBS) price indices and economic data.
 - **[Jean Memory](https://github.com/jonathan-politzki/your-memory)** - Premium memory consistent across all AI applications.
 - **[Jina Reader](https://github.com/wong2/mcp-jina-reader)** - Fetch the content of a remote URL as Markdown with Jina Reader.
